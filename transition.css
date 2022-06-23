@@ -63,8 +63,8 @@
     position: absolute;
     border-radius: 50px;
     box-sizing: border-box;
-    transition: 5s ease top, 5s ease left, 5s ease right, 5s ease width,
-      5s ease height, 5s ease border-color;
+    transition: 10s ease top, 10s ease left, 10s ease right, 10s ease width,
+    10s ease height, 10s ease border-color;
   }
   
   #toggle_checkbox:checked + label:before {
